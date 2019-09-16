@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Communication and Learning Lab at Carnegie Mellon University</title>
-    <link>http://something-fresh.org/</link>
+    <link>http://callab.github.io/</link>
     <description>Recent content on The Communication and Learning Lab at Carnegie Mellon University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="http://something-fresh.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://callab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://something-fresh.org/blog/2015-07-23-r-rmarkdown/</link>
+      <link>http://callab.github.io/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://something-fresh.org/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>http://callab.github.io/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -24,57 +24,57 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>First</title>
-      <link>http://something-fresh.org/blog/first/</link>
+      <link>http://callab.github.io/blog/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/blog/first/</guid>
+      <guid>http://callab.github.io/blog/first/</guid>
       <description>My super sweet first blog post!!</description>
     </item>
     
     <item>
       <title>For parents</title>
-      <link>http://something-fresh.org/parents/</link>
+      <link>http://callab.github.io/parents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/parents/</guid>
+      <guid>http://callab.github.io/parents/</guid>
       <description>Thank you so much for your interest in our research! Families like yours can help us answer questions about how children learn about language. If you are interested in participating in our research here at the Center for Early Childhood Research at the University of Chicago, please click here to sign up!
 You can also reach out to us directly by emailing us or calling 773-834-9769.  How long do studies usually last?</description>
     </item>
     
     <item>
       <title>Join our lab!</title>
-      <link>http://something-fresh.org/join/</link>
+      <link>http://callab.github.io/join/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/join/</guid>
+      <guid>http://callab.github.io/join/</guid>
       <description>We are always looking for motivated, passionate students and researchers to join our team. Please contact us if you have any questions about our work!
 Undergraduate Opportunities: The Communication and Learning Lab has openings for undergraduates to gain research experience working as RAs. As a research assistant in CaLLab, you could be involved in research at every step of the process, from developing research questions and creating stimuli to recruiting subjects and testing participants.</description>
     </item>
     
     <item>
       <title>Our research</title>
-      <link>http://something-fresh.org/research/</link>
+      <link>http://callab.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/research/</guid>
+      <guid>http://callab.github.io/research/</guid>
       <description>Our approach Young children learn the meanings of thousands of words by the time they can run down the street. The computational problem they solve is daunting: extracting discrete word forms from a sequence of continuous speech signals and mapping these forms onto their meanings. Yet, the same children who solve this problem continuously forget where they left their coats and hats. How do children learn language so quickly despite cognitive constraints on memory, attention, and information processing?</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://something-fresh.org/blog/second/</link>
+      <link>http://callab.github.io/blog/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/blog/second/</guid>
+      <guid>http://callab.github.io/blog/second/</guid>
       <description>My awesome blogpost My super sweet second blog post</description>
     </item>
     
     <item>
       <title>Who we are</title>
-      <link>http://something-fresh.org/people/</link>
+      <link>http://callab.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://something-fresh.org/people/</guid>
+      <guid>http://callab.github.io/people/</guid>
       <description>Principal Investigator   Daniel Yurovsky  Email &amp;nbsp; &amp;nbsp; Website &amp;nbsp; &amp;nbsp; GitHub   Dan was an undergrad computer science major at Carnegie Mellon before completing a PhD in Cognitive Psychology at Indiana University and doing a postdoc in Psych Department at Stanford. He is broadly interested in how we learn from the people around us, and especially how children learn language. Dan is excited about understanding communication and learning from a systems perspective.</description>
     </item>
     
