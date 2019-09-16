@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Communication and Learning Lab at Carnegie Mellon University</title>
-    <link>http://callab.github.io/</link>
+    <link>https://callab.github.io/</link>
     <description>Recent content on The Communication and Learning Lab at Carnegie Mellon University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="http://callab.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://callab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://callab.github.io/blog/2015-07-23-r-rmarkdown/</link>
+      <link>https://callab.github.io/blog/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://callab.github.io/blog/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://callab.github.io/blog/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -24,19 +24,19 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>First</title>
-      <link>http://callab.github.io/blog/first/</link>
+      <link>https://callab.github.io/blog/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://callab.github.io/blog/first/</guid>
+      <guid>https://callab.github.io/blog/first/</guid>
       <description>My super sweet first blog post!!</description>
     </item>
     
     <item>
       <title>Second</title>
-      <link>http://callab.github.io/blog/second/</link>
+      <link>https://callab.github.io/blog/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://callab.github.io/blog/second/</guid>
+      <guid>https://callab.github.io/blog/second/</guid>
       <description>My awesome blogpost My super sweet second blog post</description>
     </item>
     
